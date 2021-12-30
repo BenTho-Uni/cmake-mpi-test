@@ -15,7 +15,7 @@ Check if `which mpic++` gives back a path.
 
 ## Usage
 
-Make a build forlder, change to it and call cmake to above files.
+Make a build folder, change to it and call cmake to above files.
 ```
 mkdir build
 cd build
