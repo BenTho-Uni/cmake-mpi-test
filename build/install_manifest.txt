@@ -1,1 +1,0 @@
-/home/bentho/workspace/cmake-mpi-test/exe/main
